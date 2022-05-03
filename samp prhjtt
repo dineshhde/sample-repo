@@ -1,0 +1,8 @@
+  create-script
+[--name <dinesh>]
+[--storage-location <dinesh>]
+[--zip-file <dinesh>]
+[--tags <dinesh>]
+[--script-version <dinesh>]
+[--cli-input-json <dinesh>]
+[--generate-cli-skeleton <dinesh>]
